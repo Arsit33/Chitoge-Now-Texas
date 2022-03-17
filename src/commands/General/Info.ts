@@ -40,7 +40,7 @@ export default class Command extends BaseCommand {
 			{ url: texas },
 			MessageType.image,
 			{
-				caption: `*╭─* \n*│Name: Texαs* ✨\n*│ℙ𝕣𝕖𝕗𝕚𝕩:* *${this.client.config.prefix}*\n*│Uptime: ${uptime()}*\n*│Total Groups: ${chats.length}*\n*│Owner: Alι_Aryαɴ*\n*╰────────────*\n`
+				caption: `*╭─* \n*│Name: Marika* ✨\n*│ℙ𝕣𝕖𝕗𝕚𝕩:* *${this.client.config.prefix}*\n*│Uptime: ${uptime()}*\n*│Total Groups: ${chats.length}*\n*│Owner: Arsit*\n*╰────────────*\n`
 		        })
            };
 }
